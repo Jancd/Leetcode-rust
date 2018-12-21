@@ -3,4 +3,4 @@ LeetCode Solutions in Rust.
 
 ---
 
-1. [two sum](./src/1.two\ sum.md)
+1. [two sum](./src/1.two_sum.md)
