@@ -13,6 +13,8 @@ LeetCode Solutions in Rust.
 
 - [19.Remove_Nth_Node_From_End_of_List](./src/19.Remove_Nth_Node_From_End_of_List.md)
 
+- [21. Merge Two Sorted Lists](./src/21.Merge_Two_Sorted_Lists.md)
+
 - [34.Find_First_and_Last_Position_of_Element_in_Sorted_Array](./src/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)
 
 - [36.Valid_Sudoku](./src/36.Valid_Sudoku.md)
