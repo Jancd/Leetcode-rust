@@ -7,6 +7,8 @@ LeetCode Solutions in Rust.
 
 - [2.Add_Two_Numbers](./src/2.Add_Two_Numbers.md)
 
+- [3.Longest_Substring_Without_Repeating_Characters](./src/3.Longest_Substring_Without_Repeating_Characters.md)
+
 - [7.Reverse_Integer.md](./src/7.Reverse_Integer.md)
 
 - [13.Roman_to_Integer](./src/13.Roman_to_Integer.md)
@@ -19,9 +21,17 @@ LeetCode Solutions in Rust.
 
 - [36.Valid_Sudoku](./src/36.Valid_Sudoku.md)
 
+- [50.Pow(x,n)](./src/50.Pow(x,n).md)
+
+- [62.Unique_Paths](./src/62.Unique_Paths.md)
+
 - [66.Plus_One](./src/66.Plus_One.md)
 
 - [69.Sqrt(x)](./src/69.Sqrt(x).md)
+
+- [75.Sort_Color](./src/75.Sort_Color.md)
+
+- [86.Partition_List](./src/86.Partition_List.md)
 
 - [88.Merge_Sorted_Array](./src/88.Merge_Sorted_Array.md)
 
