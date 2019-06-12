@@ -1,0 +1,22 @@
+```rust
+impl Solution {
+    pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
+        let n = nums.len();
+        if n <= 2 {
+            return n as i32;
+        }
+        let mut i = 2;
+        let mut j = 2;
+        while j < n {
+            if nums[j] == nums[i - 1] && nums[j] == nums[i - 2] {
+                // do nothing
+            } else {
+                nums[i] = nums[j];
+                i += 1;
+            }
+            j += 1;
+        }
+        i as i32
+    }
+}
+```
